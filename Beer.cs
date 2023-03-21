@@ -23,7 +23,7 @@ namespace SLVP_Uge4_SimpelKlasse
 
         public string ToString()
         {
-            return "Navn : " + name + " Størrelse: " + size + "cL. Pris: " + price + "kr.";
+            return "Navn: " + name + " Størrelse: " + size + "cL. Pris: " + price + "kr.";
         }
 
         public int GetPrice()
